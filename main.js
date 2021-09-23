@@ -11,7 +11,7 @@ function template() {
 // Function that starts the timer
 function start_timer() {
     // Change the minutes and seconds to starting time
-    session_minutes = 1;
+    session_minutes = 24;
     session_seconds = 59;
 
     // Add the minutes and seconds to the page
